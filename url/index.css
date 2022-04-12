@@ -1,0 +1,35 @@
+body{
+    background: #DA4453;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #89216B, #DA4453);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #89216B, #DA4453); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+
+}
+/* Heading */
+.heading{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.en{
+    color:#39ff14;
+}
+.simple{
+    color:  #39ff14;
+}
+/* Heading Closed */
+/* inputs */
+input{
+    background:#273549;
+    border-radius:6px;
+    color:white;
+    height: 3rem;
+    width: 20rem;
+}
+textarea{
+    background:#273549;
+    border-radius:6px;
+    color:white;
+    width: 20rem;
+}
+/* inputs closed */
